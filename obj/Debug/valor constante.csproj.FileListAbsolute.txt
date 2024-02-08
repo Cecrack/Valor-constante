@@ -1,0 +1,11 @@
+C:\Users\cecra\source\repos\valor constante\valor constante\bin\Debug\valor constante.exe.config
+C:\Users\cecra\source\repos\valor constante\valor constante\bin\Debug\valor constante.exe
+C:\Users\cecra\source\repos\valor constante\valor constante\bin\Debug\valor constante.pdb
+C:\Users\cecra\source\repos\valor constante\valor constante\obj\Debug\valor constante.csproj.AssemblyReference.cache
+C:\Users\cecra\source\repos\valor constante\valor constante\obj\Debug\valor constante.csproj.SuggestedBindingRedirects.cache
+C:\Users\cecra\source\repos\valor constante\valor constante\obj\Debug\valor_constante.Properties.Resources.resources
+C:\Users\cecra\source\repos\valor constante\valor constante\obj\Debug\valor constante.csproj.GenerateResource.cache
+C:\Users\cecra\source\repos\valor constante\valor constante\obj\Debug\valor constante.csproj.CoreCompileInputs.cache
+C:\Users\cecra\source\repos\valor constante\valor constante\obj\Debug\valor constante.exe
+C:\Users\cecra\source\repos\valor constante\valor constante\obj\Debug\valor constante.pdb
+C:\Users\cecra\source\repos\valor constante\valor constante\obj\Debug\valor_constante.ValorConstante.resources
